@@ -10,7 +10,7 @@ export class AboutComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    this.title = "Welcome to About Page";
+    this.title = "Welcome to About Page edited for testing";
   }
 
 }
